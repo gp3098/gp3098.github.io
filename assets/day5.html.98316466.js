@@ -1,0 +1,1 @@
+const e={key:"v-626373f1",path:"/code-farmer-diary/day5.html",title:"\u7EC8\u4E8E\u4F7F\u7528\u4E86\u4E00\u6B21tailwindcss",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1646096516e3},filePathRelative:"code-farmer-diary/day5.md"};export{e as data};

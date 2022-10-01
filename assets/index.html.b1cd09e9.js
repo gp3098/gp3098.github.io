@@ -1,0 +1,1 @@
+const t={key:"v-4303cc4c",path:"/manjaro/",title:"\u5F00\u59CB\u5C1D\u8BD5\u4F7F\u7528linux\u4E86",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1664554307e3},filePathRelative:"manjaro/README.md"};export{t as data};
