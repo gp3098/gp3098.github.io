@@ -1,0 +1,1 @@
+const e={key:"v-22d407f8",path:"/manjaro/software.html",title:"\u76F8\u5173\u8F6F\u4EF6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u8BED\u8A00\u95EE\u9898",slug:"\u8BED\u8A00\u95EE\u9898",children:[]}],git:{updatedTime:1664637184e3},filePathRelative:"manjaro/software.md"};export{e as data};

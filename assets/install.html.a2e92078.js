@@ -1,0 +1,1 @@
+const e={key:"v-6f4d86f8",path:"/manjaro/install.html",title:"\u5B89\u88C5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"u\u76D8\u5236\u4F5C",slug:"u\u76D8\u5236\u4F5C",children:[]},{level:2,title:"\u5F00\u59CB\u5B89\u88C5",slug:"\u5F00\u59CB\u5B89\u88C5",children:[]}],git:{updatedTime:1664637184e3},filePathRelative:"manjaro/install.md"};export{e as data};
